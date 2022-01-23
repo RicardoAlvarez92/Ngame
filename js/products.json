@@ -1,0 +1,199 @@
+
+{
+   
+"games":[
+    {     
+        "id":1,
+        "title":"The Legend of Zelda Breath of the wild",
+        "price":999,
+        "image":"../img/Juegos-fisicos/zelda-breath",
+        "clasification":"10+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Junio 05, 2020",
+        "players":"Hasta 4 jugadores",
+        "genre":"Fiesta, Multijugador", 
+        "video":"https://www.youtube.com/watch?v=zw47_q9wbBE",
+        "description":"Link despierta tras un profundo sueño de 100 años en un misterioso templo en el reino de Hyrule; junto a él, deberemos descubrir su pasado mientras escuchamos una voz que nos incita a enfrentarnos a un malvado ser que provocó el llamado cataclismo: Ganon."
+    },                                                  
+    {   
+        "id":2,
+        "title":"51 Worldwide Games",
+        "price":399,
+        "image":"../img/Juegos-fisicos/51-worldwide-games.png",
+        "clasification":"12+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Junio 05, 2020",
+        "players":"Hasta 4 jugadores",
+        "genre":"Fiesta, Multijugador", 
+        "video":"https://www.youtube.com/watch?v=RSGgCfbYrg0",
+        "description":"Worldwide Games para Nintendo Switch nos permite disfrutar de la adaptación a videojuego de alguno de los juegos más populares de todos los tiempos.Es un título asequible para todo el mundo, diseñado para que lo disfruten incluso aquellos que no han tocado una consola en su vida."                         
+    },
+    {
+        "id":3,
+        "title":"Animal Crossing New Horizon",
+        "price":999,
+        "image":"../img/Juegos-fisicos/animal-crossing.png",
+        "clasification":"3+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Marzo 20, 2020",
+        "players":"Hasta 8 jugadores",
+        "genre":"Simulación", 
+        "video":"https://www.youtube.com/watch?v=5YPxiTLMcdg",
+        "description":"En Animal Crossing: New Horizons, el jugador llega a una isla desierta, donde hay que construir una sociedad desde cero. Al principio tiene unas pocas herramientas y una tienda de campaña básica. Una vez creado el personaje, el desafío es sobrevivir y completar una larga y variada oferta de contenidos."                         
+    },
+    {
+        "id":4,
+        "title":"Bioshok The Collection",
+        "price":599,
+        "image":"../img/Juegos-fisicos/bioshock.png",
+        "clasification":"18+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Mayo 29, 2020",
+        "players":"Un jugador",
+        "genre":"Primera Persona, Acción", 
+        "video":"https://www.youtube.com/watch?v=4EDCm2syQWU",
+        "description":"BioShock: The Collection es un pack de videojuegos que incluye las ediciones remasterizadas en 1080p (y 60 frames en consolas) de BioShock, BioShock 2 y BioShock Infinite, además de todo su contenido extra descargable"                         
+    },
+    {
+        "id":5,
+        "title":"Crash Bandicoot 4",
+        "price":7,
+        "image":"../img/Juegos-fisicos/crash-bandicoot-4.png",
+        "clasification":"10+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Marzo 11, 2021",
+        "players":"Hasta 4 jugadores",
+        "genre":"Plataformas", 
+        "video":"https://www.youtube.com/watch?v=ch3fBDv9Wa0",
+        "description":"La historia del juego sigue a Crash Bandicoot y su hermana Coco, ayudados por su antiguo enemigo Dingodile y una contraparte de una dimensión alternativa de la antigua novia de Crash, Tawna, mientras recuperan las todopoderosas máscaras cuánticas en un intento por prevenir al Doctor Neo Cortex y al Doctor Nefarious Tropy. de esclavizar el multiverso."                         
+    },
+    {
+        "id":6,
+        "title":"Donkey Kong Country Tropical Freeze",
+        "price":799,
+        "image":"../img/Juegos-fisicos/donkey-konng-country.png",
+        "clasification":"6+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Mayo 04, 2018",
+        "players":"Hasta 2 jugadores",
+        "genre":"PLataformas, Acción", 
+        "video":"https://www.youtube.com/watch?v=Or5HB1Lo8b0",
+        "description":"El juego de aventura de Donkey Kong más aclamado por la crítica llega como un explosivo barril a la consola Nintendo Switch™ y trae consigo un racimo de nuevas funciones. Aventúrate a través de islas cargadas de acción utilizando los clásicos Kongs como en el juego original, ¡o dale sabor a la historia jugando como Funky Kong en el nuevo modo Funky!"                         
+    },
+    {
+        "id":7,
+        "title":"Final Fantasy XII The Zodiac Age",
+        "price":599,
+        "image":"../img/Juegos-fisicos/final-fantasy-xii.png",
+        "clasification":"12+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Abril 30, 2019",
+        "players":"Un jugador",
+        "genre":"Juego de rol",
+        "video":"https://www.youtube.com/watch?v=uz5qP0R0Wgo",
+        "description":"Han pasado dos años desde la guerra en la que el colosal y beligerante imperio de Arcadia aniquiló al reino de Dalmasca… Vaan, un joven que perdió a su familia en el conflicto, vive estoicamente en la ciudad ocupada de Rabanasta mientras sueña con ser un pirata del aire que surca los cielos en libertad"                   
+    },
+    {
+        "id":8,
+        "title":"Fornite",
+        "price":299,
+        "image":"../img/Juegos-fisicos/fornite.png",
+        "clasification":"12+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Junio 12, 2018",
+        "players":"Hasta 99 jugadores",
+        "genre":"Acción, Estrategia",
+        "video":"https://www.youtube.com/watch?v=Dk56OpKuFts",
+        "description":"Fortnite es un juego online de disparos (lo que se conoce como un shooter) en tercera persona (es decir; que ves a tu personaje según se mueve). Tiene dos modos de juego: Salvar al mundo y Battle Royale. El juego consiste en pelear contra olas de enemigos, controlados por una inteligencia artificial, llamados Husks."                   
+    },
+    {
+        "id":9,
+        "title":"Hades",
+        "price":499,
+        "image":"../img/Juegos-fisicos/hades.png",
+        "clasification":"12+",
+        "platforma":"Nintendo Switch",
+        "relase date":"Septimebre 17, 2020",
+        "players":"Un jugador",
+        "genre":"Indie, Acción, Aventura",
+        "video":"https://www.youtube.com/watch?v=BJNfc-xRYJI",
+        "description":"Hades es un juego roguelike de exploración de mazmorras que combina los mejores aspectos de los aclamados títulos anteriores de Supergiant, como la acción rápida de Bastion, la atmósfera y la profundidad de Transistor y la narrativa centrada en los personajes de Pyre."                
+    },
+    {
+        "id":10,
+        "title":"Hyrule Warrios Age of Calamity",
+        "price":899,
+        "image":"../img/Juegos-fisicos/hyrule-warriors.png",
+        "clasification":"12+",
+        "relase date":"Noviembre 20, 2020",
+        "players":"Hasta 2 jugadores",
+        "genre":"Acción, Aventura, Lucha",
+        "video":"https://www.youtube.com/watch?v=uDMWRRAEogs",
+        "description":"El juego Hyrule Warriors: Age of Calamity es la única manera ver lo que pasó hace 100 años. Desde los barbáricos bokoblin hasta los imponentes centaleón, amenazantes monstruos han emergido en manadas. Además de Link y Zelda, asume el control de los cuatro campeones y la joven Impa. Usa sus distintas habilidades para atravesar cientos de enemigos y así salvar Hyrule del inminente cataclismo."         
+    },
+    {
+        "id":11,
+        "title":"Luigi's mansion 3",
+        "price":899,
+        "image":"../img/Juegos-fisicos/luigis-mansion.png",
+        "clasification":"6+",
+        "video":"https://www.youtube.com/watch?v=T9s0hLDUCu8",
+        "relase date":"Octubre 31, 2019",
+        "players":"Hasta 8 jugadores",
+        "genre":"Acción, Aventura",
+        "description":"Es la secuela de Luigi's Mansion 2 y la tercera entrega de la serie Luigi's Mansion que se lanzó el 31 de octubre de 2019. El juego ve a los jugadores asumir el papel de Luigi quien debe explorar un hotel embrujado de gran altura, incorporando diferentes temas en cada piso, y rescatar a sus amigos de los fantasmas que lo habitan, después de que un viejo enemigo engaña al grupo para que lo visite de vacaciones."         
+    },
+    {
+        "id":12,
+        "title":"Mario Golf Super Rush",
+        "price":799,
+        "image":"../img/Juegos-fisicos/mario-golf.png",
+        "clasification":"6+",
+        "relase date":"Junio 25, 21",
+        "players":"Hasta 4 jugadores",
+        "genre":"Deportes, Multijugador",
+        "video":"https://www.youtube.com/watch?v=RHyNpXOkF-s",
+        "description":"Adéntrate en el campo de golf con hasta cuatro jugadores de manera local* o en línea** y ¡juega en compañía de reconocidos personajes de la serie de Super Mario™ como Mario, Peach, Yoshi y más! Hay una gran variedad de modos, desde el golf tradicional hasta el energético golf rápido, e incluso el emocionante modo Aventura de golf. Los intuitivos controles por movimiento o el uso de botones facilitan el juego para los jugadores novatos y los más profesionales."         
+    },
+    {
+        "id":13,
+        "title":"Mario Kart Delux 8",
+        "price":999,
+        "image":"../img/Juegos-fisicos/mario-kart-8.png",
+        "clasification":"6+",
+        "relase date":"Abril 28, 2017",
+        "players":"Hasta 12 jugadores",
+        "genre":"Carreras, Multijugador",
+        "video":"https://www.youtube.com/watch?v=N_Hw_M5ENCQ",
+        "description":"¡Calienta motores en la versión definitiva de Mario Kart™ 8 y juega donde y cuando quieras! Compite con tus amigos en carreras o en el modo batalla, que incluye circuitos nuevos y otros ya conocidos. Juega en el modo local y en 1080p en partidas de hasta 4 jugadores en el modo televisor."         
+    },
+    {
+        "id":14,
+        "title":"Mario Tennis Acces",
+        "price":899,
+        "image":"../img/Juegos-fisicos/mario-tennis-acces.png",
+        "clasification":"6+",
+        "relase date":"Junio 22, 2018",
+        "players":"Hasta 4 jugadores",
+        "genre":"Deportes", 
+        "video":"https://www.youtube.com/watch?v=7-6UBoyylNU",
+        "description":"Desata un arsenal de golpes y tácticas en batallas de tenis con tus amigos, tu familia y tus personajes favoritos del Reino Champiñón. Ya sea jugando en modo local*, en línea** o usando controles por movimiento, ¡el peloteo será intenso! En el modo Aventura prueba nuevas formas de jugar tenis en una serie de misiones, combates contra jefes ¡y más!"        
+    },
+    {
+        "id":15,
+        "title":"Super Mario Odyssey",
+        "price":999,
+        "image":"../img/Juegos-fisicos/mario-odyssey.png",
+        "clasification":"7+",
+        "video":"https://www.youtube.com/watch?v=EF5YynyWvQo",
+        "relase date":"Octubre 27, 2017",
+        "players":"Hasta 2 jugadores",
+        "genre":"Plataformas, Accion", 
+        "description":"Explora increíbles lugares lejos del reino Champiñón al unirte a Mario y su nuevo amigo Cappy en una increíble aventura al mejor estilo trotamundos en 3D. Usa asombrosas habilidades como: el poder de capturar y controlar objetos, animales y enemigos; para conseguir energilunas necesarias para recargar la nave Odyssey y salvar a la princesa Peach de los planes de boda de Bowser."                   
+    }
+    
+        ],
+"consoles":[{}],
+"accessories":[{}]
+}
+    
